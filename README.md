@@ -2,7 +2,7 @@
 
 **Citation:**
 ```
-@InProceedings{ko2019linguistically,
+@InProceedings{ko2020inquisitive,
   author    = {Ko, Wei-Jen and Chen, Te-Yuan and Huang, Yiyan and Durrett, Greg and Li, Junyi Jessy},
   title     = {Inquisitive Question Generation for High Level Text Comprehension},
   booktitle = {EMNLP},
