@@ -21,6 +21,8 @@ The remaining articles are the training set.
 
 # Article Sources
 WSJ:
+
 Newsela:
+
 AP:
 
