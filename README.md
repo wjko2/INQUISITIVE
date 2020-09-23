@@ -21,7 +21,7 @@ Test: 101~150, 501~550, 1101~1150
 The remaining articles are the training set.
 
 # Article Sources
-WSJ: 51~259, 551~590, 696~900, 1446~1491
+WSJ: 51\~259, 551~590, 696~900, 1446~1491
 
 Newsela: 1~50, 260~550, 901~1050, 1492~1500
 
