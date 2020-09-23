@@ -14,16 +14,16 @@ Wei-Jen Ko, Te-Yuan Chen, Yiyan Huang, Greg Durrett, Junyi Jessy Li, "Inquisitiv
 
 
 # Data split
-Validation: 1~100, 1051~1100
+Validation: 1\~100, 1051\~1100
 
-Test: 101~150, 501~550, 1101~1150
+Test: 101\~150, 501\~550, 1101\~1150
 
 The remaining articles are the training set.
 
 # Article Sources
-WSJ: 51\~259, 551~590, 696~900, 1446~1491
+WSJ: 51\~259, 551\~590, 696\~900, 1446\~1491
 
-Newsela: 1~50, 260~550, 901~1050, 1492~1500
+Newsela: 1\~50, 260\~550, 901\~1050, 1492\~1500
 
-AP: 591~695, 1051~1445
+AP: 591\~695, 1051\~1445
 
