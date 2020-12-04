@@ -26,5 +26,5 @@ Newsela: 1\~50, 260\~550, 901\~1050, 1492\~1500
 
 AP: 591\~695, 1051\~1445
 
-#Note on span
+# Note on span
 The Span_Start_Position	and Span_End_Position are calculated by counting the white spaces. Note that in some sentences there are consecutive white spaces.
