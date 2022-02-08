@@ -26,5 +26,10 @@ Newsela: 1\~50, 260\~550, 901\~1050, 1492\~1500
 
 AP: 591\~695, 1051\~1445
 
+We release the WSJ and AP articles.
+
+Since Newsela is copyrighted, please obtain permission from newsela (<href>https://newsela.com/data</href>) first, and then send me an email to ask for the articles (wjko@outlook.com).
+
+
 # Note on span
 The Span_Start_Position	and Span_End_Position are calculated by counting the white spaces. Note that in some sentences there are consecutive white spaces.
