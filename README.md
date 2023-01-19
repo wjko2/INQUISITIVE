@@ -3,11 +3,12 @@ A dataset of about 20k questions that are elicited from readers as they naturall
 
 **Citation:**
 ```
-@InProceedings{ko2020inquisitive,
-  author    = {Ko, Wei-Jen and Chen, Te-Yuan and Huang, Yiyan and Durrett, Greg and Li, Junyi Jessy},
-  title     = {Inquisitive Question Generation for High Level Text Comprehension},
-  booktitle = {Proceedings of EMNLP},
-  year      = {2020},
+@inproceedings{ko2020inquisitive,
+  title={Inquisitive Question Generation for High Level Text Comprehension},
+  author={Ko, Wei-Jen and Chen, Te-yuan and Huang, Yiyan and Durrett, Greg and Li, Junyi Jessy},
+  booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  pages={6544--6555},
+  year={2020}
 }
 ```
 
@@ -26,7 +27,7 @@ Newsela: 1\~50, 260\~550, 901\~1050, 1492\~1500
 
 AP: 591\~695, 1051\~1445
 
-Since the articles are copyrighted, please send me an email to ask for the articles (wjko@outlook.com). Please obtain permission from newsela (https://newsela.com/data) first before emailing me.
+Since the articles are copyrighted, please send us an email to ask for the articles (wjko@outlook.com, jessy@utexas.edu). For the Newsela portion of the data, please obtain permission from newsela (https://newsela.com/data) first before emailing us.
 
 
 # Note on span
