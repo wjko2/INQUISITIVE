@@ -27,7 +27,7 @@ Newsela: 1\~50, 260\~550, 901\~1050, 1492\~1500
 
 AP: 591\~695, 1051\~1445
 
-Since the articles are copyrighted, please send us an email to ask for the articles (wjko@outlook.com, jessy@utexas.edu). For the Newsela portion of the data, please obtain permission from newsela (https://newsela.com/data) first before emailing us.
+Since the articles are copyrighted, please send us an email to ask for the articles (jessy@utexas.edu). For the Newsela portion of the data, please obtain permission from newsela (https://newsela.com/data) first before emailing us. (Newsela data is free to obtain for researchers).
 
 
 # Note on span
